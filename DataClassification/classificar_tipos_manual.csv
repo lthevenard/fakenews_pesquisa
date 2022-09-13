@@ -1,0 +1,43 @@
+siglaTipo;descricaoTipo;n;manter;justificativa
+PL;Projeto de Lei;302;1;Projetos de lei constituem o objeto principal da pesquisa.
+REQ;Requerimento;220;0;Requerimentos são, em regra, direcionados ao Presidente da Câmara (art. 17, II, c da RICD). Têm funções muito variadas, mas não adicionam conteúdo normativo próprio para os projetos, emendas e substitutivos.
+PRL;Parecer do Relator;149;0;Art. 56 RICD – trata-se apenas de uma manifestação contrária ou favorável a uma proposição, cuja diferença para um simples voto consiste principalmente em servir como critério de desempate ao final da votação.
+RIC;Requerimento de Informação;98;0;Art. 116 RICD – apenas solicita informações a um ministro de Estado, mas não altera o conteúdo dos atos legislativos
+SBT;Substitutivo;66;1;"Definido no Glossário de Termos Legislativos como: ""Emenda que visa à substituição da integralidade do texto de uma proposição principal por outro, promovendo alterações substanciais ou apenas formais em parte ou na totalidade do texto principal substituído. No Senado Federal, o substitutivo está sujeito a novo turno de discussão e votação (turno suplementar)."""
+REL;Relatório de CPI;49;0;Arts. 36 e 37 – diz respeito à função fiscalizatória da Câmara, ou seja, não se aplica à função legislativa propriamente dita.
+VTS;Voto em Separado;43;0;"Definido no Glossário de Termos Legislativos como: ""Espécie de manifestação alternativa à do relator em uma comissão, podendo ser apresentado por qualquer dos demais membros."" Segue, portanto, a mesma lógica do PRL."
+INC;Indicação;43;0;"Definida no Glossário de Termos Legislativos como: ""Espécie de proposição pela qual o parlamentar sugere a outro Poder a adoção de providência, a realização de ato administrativo ou de gestão, ou o envio de projeto sobre matéria de sua iniciativa exclusiva. Na Câmara dos Deputados, pode ser utilizada ainda para sugerir a manifestação de uma ou mais comissões, visando à elaboração de projeto sobre matéria de iniciativa da Câmara. No Senado Federal, pode ser usada ainda para sugerir que o assunto nela focalizado seja objeto de providência ou estudo pelo órgão competente da Casa com a finalidade de seu esclarecimento ou formulação de proposição legislativa."""
+EMP;Emenda de Plenário a Projeto com Urgência;16;1;"Emendas alteram o texto da proposição, conforme a definição de 'emenda' presente no Glossário de Termos Legislativos, que versa: ""Proposição apresentada como acessória a outra, destinada a alterar a proposição principal."""
+EMR;Emenda de Relator;15;1;"Emendas alteram o texto da proposição, conforme a definição de 'emenda' presente no Glossário de Termos Legislativos, que versa: ""Proposição apresentada como acessória a outra, destinada a alterar a proposição principal."""
+EMC;Emenda na Comissão;9;1;"Emendas alteram o texto da proposição, conforme a definição de 'emenda' presente no Glossário de Termos Legislativos, que versa: ""Proposição apresentada como acessória a outra, destinada a alterar a proposição principal."""
+PRLP;Parecer Preliminar de Plenário;7;0;"Modalidade de parecer de comissão quando há decurso do prazo sem relatório, nos termos do art. 20 do RCCN: ""Esgotado o prazo destinado aos trabalhos da Comissão, sem a apresentação do parecer, este deverá ser proferido oralmente, em plenário, por ocasião da discussão da matéria."""
+PLP;Projeto de Lei Complementar;6;1;Projetos de lei constituem o objeto principal da pesquisa.
+RDF;Redação Final;6;1;"Definida no Glossário de Termos Legislativos como: ""Texto legislativo resultante da aprovação de proposição pelo Plenário. É apresentada na forma de parecer e submetida à aprovação do Plenário."""
+PDL;Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo;6;1;Apesar de não possuir conteúdo normativo novo, traz consequências jurídicas diretas para a matéria de objeto ao sustar atos normativos do Poder Executivo e, portanto, são relevantes para a pesquisa.
+SBT-A;Substitutivo adotado pela Comissão;5;1;Nos termos do Art. 119, § 3º do RICD, as comissões podem apresentar substitutivos novos ao opinar sobre a matéria. Segue, portanto, o mesmo critério adotado para os Substitutivos.
+PFC;Proposta de Fiscalização e Controle;4;0;art. 61 RICD – diz respeito à atividade de controle de atos do Poder Executivo pelo Poder Legislativo, não se tratando de atividade legislativa propriamente dita 
+CVO;Complementação de Voto;4;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+PEC;Proposta de Emenda à Constituição;4;1;Objeto com evidente conteúdo normativo.
+RCP;Requerimento de Instituição de CPI;4;0;Segue a lógica do REQ.
+PRC;Projeto de Resolução;3;1;"Constitui objeto de conteúdo normativo próprio, ainda que não crie lei em sentido estrito. Nos termos do Glossário de Termos Legislativos, resoluções são definidas como: ""Norma jurídica que regula matérias da competência privativa da Casa Legislativa ou do Congresso Nacional, de caráter político, processual, legislativo ou administrativo."""
+PRV;Parecer Vencedor;3;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+ESB;Emenda ao Substitutivo;3;1;Segue a lógica da EMP, EMR e EMC.
+PRP;Parecer do Relator Parcial;3;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+REP;Representação;3;0;Diz respeito ao processo pelo qual um Deputado pode perder o mandato, previsto no art. 240 do RICD.
+PPP;Parecer Proferido em Plenário;2;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+RLP;Relatório Prévio;2;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+PRR;Parecer Reformulado;2;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+RRL;Relatório do Relator (CMO);2;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+REL-A;Relatório Adotado pela Comissão;2;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+PSS;Parecer às Emendas ou ao Substitutivo do Senado;1;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+RPA;Relatório Parcial;1;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+REC;Recurso contra devolução de requerimento de CPI (Art. 35, § 2º, RICD);1;0;Segue a lógica do RCP.
+RLF;Relatório Final;1;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+MPV;Medida Provisória;1;1;Objeto com evidente conteúdo normativo.
+PLV;Projeto de Lei de Conversão;1;1;"Altera o texto de uma MP, estando definido no Glossário de Termos Legislativos como ""Proposição apresentada por relator de medida provisória com alterações de mérito ao seu texto original."""
+AA;Autógrafo;1;1;"Segue a lógica da Redação Final, pois se trata, segundo a definição do Glossário de Termos Legislativos, do: ""Documento oficial enviado à sanção, à promulgação ou à outra Casa Legislativa com o texto da proposição aprovada em definitivo por uma das Casas Legislativas ou em sessão conjunta do Congresso Nacional""."
+SBR;Subemenda de Relator;1;1;Segue a lógica da EMP, EMR e EMC.
+REM;Reclamação;1;0;"Definida no Glossário de Termos Legislativos como: ""Ato por meio do qual o Deputado se insurge contra o descumprimento de norma regimental ou contra o mau funcionamento dos serviços administrativos da Casa."""
+CMC;Comunicação de Medida Cautelar;1;0;"Insere-se na classe de ""Comunicações Parlamentares"" e portanto tem apenas a finalidade de informar de um fato, não gerando alteração de textos normativos."
+ERD;Emenda de Redação em Plenário;1;1;Segue a lógica da EMP, EMR e EMC.
+PAR;Parecer de Comissão;1;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.

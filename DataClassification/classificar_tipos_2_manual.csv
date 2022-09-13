@@ -1,0 +1,8 @@
+siglaTipo;descricaoTipo;n;manter;justificativa
+PRLE;Parecer Preliminar às Emendas de Plenário;4;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+PEP;Parecer às Emendas de Plenário;3;0;Seguindo a lógica adotada para o PRL e para o VTS, votos, pareceres e relatórios não serão incluídos.
+DOC;Ofício da Primeira-Secretaria;2;0;Ofícios apenas transferem informações ou comandos, não gerando modificações substantivas dos textos de proposições.
+EMA;Emenda Aglutinativa de Plenário;2;1;Segue a lógica da EMP, EMR e EMC.
+EMC-A;Emenda Adotada pela Comissão;2;1;Segue a lógica da EMP, EMR e EMC.
+SSP;Subemenda Substitutiva de Plenário;2;1;Segue a lógica da EMP, EMR e EMC.
+EMS;Emenda/Substitutivo do Senado;1;1;Segue a lógica da EMP, EMR e EMC.
